@@ -1,0 +1,38 @@
+h2{
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: blue;
+  font-size: 2.5em;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+  padding: 2em;
+}
+
+.btn {
+  color: white;
+  background-color: blue;
+}
+
+.btn-done {
+  background-color: green;
+}
+
+.btn-delete {
+  background-color: red;
+}
+
+.list-group-item {
+  margin: 15px;
+  border: solid 1px blue;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-control {
+  margin-right: .5em;
+};
